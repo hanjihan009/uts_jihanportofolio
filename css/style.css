@@ -87,7 +87,7 @@
 
     footer { text-align:center; padding:20px; background:#020617; }
 
-    @media(max-width:768px){
+    .media(max-width:768px){
       .about { grid-template-columns:1fr; }
       .hero h2 { font-size:2rem; }
     }
